@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("https://vignette.wikia.nocookie.net/wocsolverlabs/images/8/86/Cat_anim.gif/revision/latest?cb=20140113135558");
+    background-color: #00a2ff;
+}
+
+#kutPoes {
+    max-height: 700px;
+}
+
+#boxForCat {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
